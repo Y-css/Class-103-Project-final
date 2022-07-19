@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(134, 201, 255);
+    color:rgb(0, 119, 0);
+}
+
+.heading {
+    font-size: larger;
+    font-style: italic;
+    width: 80%;
+}
+
+.name_of_objects {
+    color: rgb(44, 83, 255);
+}
+
+#camera {
+    border: 2px dashed black;
+    width: 350px;
+    height: 300px;
+}
+
+#result_familymember_name {
+    color: rgb(194, 130, 255);
+}
+
+#result_familymember_accuracy {
+    color: rgb(194, 130, 255);
+}
